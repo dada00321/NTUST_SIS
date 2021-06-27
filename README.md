@@ -1,7 +1,6 @@
 # 三校防疫資訊小助手： 台大三校聯盟 - 防疫快訊爬蟲
 
 ### 包裝成 LineBot 的版本: 
-**NTUST_SIS_LineBot:**
 https://github.com/dada00321/NTUST_SIS_LineBot
 
 ### 三校防疫資訊小助手 LineBot 功能展示影片:
