@@ -16,6 +16,5 @@ NTUST_SIS 為 大三下必修〈管理資訊系統〉期末策略資訊系統（
 **NTUST_SIS_LineBot:**
 https://github.com/dada00321/NTUST_SIS_LineBot
 
-### 三校防疫資訊小助手 LineBot demo:
-**Youtube 功能展示影片**
+### 三校防疫資訊小助手 LineBot 功能展示影片:
 https://youtu.be/_UXmJ0XpuUA
